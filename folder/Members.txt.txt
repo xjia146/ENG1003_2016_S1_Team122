@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-LIST OF MEMBERS FOR TEAM 122dududuududududududududusudiojsiafdiosadfihifofuafuahog
-=======
+
 LIST OF MEMBERS FOR TEAM 122
->>>>>>> origin/master
+
  
 MEMBER 1 test123ewewe
  rerwerwerwerwrwe
